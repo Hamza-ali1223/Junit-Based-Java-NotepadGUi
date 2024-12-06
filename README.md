@@ -18,3 +18,12 @@ This project emphasizes Test-Driven Development (TDD) principles by incorporatin
 
 Below is the image of the tests passed:
 ![Screenshot 2024-12-06 211658](https://github.com/user-attachments/assets/09c66b9d-632b-4bca-abfe-c39b4cdf61af)
+
+And Below are the Notepad Images:
+![image](https://github.com/user-attachments/assets/373a77c8-3b03-4859-b641-beb45edc88a3)
+---
+![image](https://github.com/user-attachments/assets/ddf254d6-70a2-450f-b984-5cb59777a15d)
+---
+![image](https://github.com/user-attachments/assets/781e67fa-7f2d-4b60-8e74-0a508060ff53)
+
+
